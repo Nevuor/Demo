@@ -6,3 +6,4 @@
 REPORT ZDEMO_ABAPGIT.
 
 WRITE 'Dies ist eine Demonstration`.'.
+WRITE / 'Hallo.'.
