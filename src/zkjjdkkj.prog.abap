@@ -6,3 +6,4 @@
 REPORT ZKJJDKKJ.
 
 WRITE '....'.
+WRITE 'Goodbye'.
