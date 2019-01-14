@@ -8,4 +8,3 @@ REPORT ZKJJDKKJ.
 
 WRITE 'HELLO'.
 WRITE '......'.
-~WRITE 'Goodbye'.
